@@ -14,6 +14,7 @@ file = open('/home/dyhia/Documents/arithm/data1/TD7-File1-N100-C10e3.txt', encod
 # read
 
 # print(read)
+#print
 
 arr=[]
 n=len(arr)
