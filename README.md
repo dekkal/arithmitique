@@ -17,4 +17,4 @@ Dans le cadre de ce tp ce qui a été demander de faire est de :
 
     a)b32
     b)b64
-4)Compléter votre analyse en ajoutant la REB DE chaque cas 
+4)Compléter votre analyse en ajoutant la REB de chaque cas 
