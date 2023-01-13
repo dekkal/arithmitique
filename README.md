@@ -1,5 +1,5 @@
 # arithmitique
-Dans le cadre de ce tp ce qui a été demander de faire est de :
+Dans le cadre de ce tp ce qui a été demandé de faire est de :
 
 1)Coder les algos:
 
