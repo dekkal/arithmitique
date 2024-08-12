@@ -1,0 +1,11 @@
+dataset_dir: './data/'            
+input1:
+          file1: 'data1/TD7-File1-N100-C10e3.txt'
+          file2: 'data1/TD7-File2-N100-C10e6.txt'
+          file3: 'data1/TD7-File3-N100-C10e9.txt'
+          file4: 'data1/TD7-File4-N100-C10e12.txt'
+          file5: 'data1/TD7-File5-N100-C10e15.txt'
+          file6: 'data1/TD7-File6-N100-C10e16.txt'
+
+          
+
